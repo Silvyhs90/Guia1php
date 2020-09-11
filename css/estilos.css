@@ -1,0 +1,59 @@
+.pie
+{
+  background-image: url(../imagenes/fondo_3.jpg);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .cuerpo
+ {
+  background-image: url(../imagenes/fondo2.jpg);
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }  
+ 
+ .encabezado
+ {
+  background-image: url(../imagenes/fondo_3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ } 
+
+
+ .hrc
+ {
+  height: 2px;
+  background-color: rgb(236, 116, 206)!important;
+ }
+
+.bg-dark
+{
+  background-color:rgba(0, 0, 0, 0.5)!important;
+}
+
+.bg-light
+{
+  background-color:#ee91ad!important;
+}
+
+.bg-secondary
+{
+  background-color:#d1aed1!important;
+}
+
+.centrado
+{
+  text-align: center;
+}
+.titulo
+{
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-style: oblique;
+  font-weight: bold;
+}
+
+
+
+
